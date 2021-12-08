@@ -1,0 +1,12 @@
+开发环境：
+Keil
+HAL库
+RT-thread nano嵌入式系统
+
+
+
+剩余未配置：
+USB_FS
+USB_HS
+SDRAM
+EMMC
